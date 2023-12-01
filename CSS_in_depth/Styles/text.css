@@ -1,0 +1,41 @@
+.left-align{
+    text-align: left;
+    text-decoration: line-through;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    text-shadow: 5px 5px red;
+
+}
+
+.right-align{
+    text-align: right;
+    text-decoration: underline;
+    text-shadow: 5px 5px red;
+    
+   
+}
+
+.justify-align{
+    text-align: justify;
+    text-decoration: dotted;
+}
+
+.centre-align{
+    text-align: center;
+    text-decoration: overline;
+}
+.blue {
+    color: blue;
+}
+
+.Purple{
+    color: purple;
+}
+
+.Yellow{
+    color: rgb(189, 189, 17);
+}
+
+body {
+    background-color: bisque;
+}
